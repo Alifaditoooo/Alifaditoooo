@@ -23,10 +23,6 @@ Rem (dengan presisi hingga 16-bit)
 Kemudi (dengan presisi hingga 16-bit)
 Instruksi Instalasi:
 
-## Unduh file ZIP library melalui tautan: Download
-Di Arduino IDE, pilih "Sketch" > "Include Library" > "Add .ZIP Library...".
-Cari dan pilih file ZIP yang telah diunduh, lalu klik "Open".
-Contoh penggunaan library Joystick akan muncul di menu "File" > "Examples" > "Joystick".
 
 ## Author
 https://github.com/MHeironimus/ArduinoJoystickLibrary
